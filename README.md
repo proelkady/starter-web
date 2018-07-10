@@ -15,3 +15,7 @@ first edit
 second edit
 
 ## How to contribute
+
+## Copyright
+
+this si a copyright
